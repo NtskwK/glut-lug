@@ -1,0 +1,24 @@
+{{ define "head" }}
+<meta name="description" content={{ .Site.Params.description }}>
+{{ end }}
+
+{{ define "title" }}
+{{ .Site.Title }} | {{ .Site.Params.terms.pageNotFound | default "404 page not found" }}
+{{ end }}
+
+{{ define "main" }}
+<style>
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; /* 可根据需要调整容器高度 */
+    }
+</style>
+
+<div class="container py-5 text-center">
+    <img src="{{ .Site.Params.staticPath }}/404.png" alt="{{ .Site.Params.terms.pageNotFound | default "404 page not found" }}" class="img-fluid" width="40%">
+    <h1>{{ .Site.Params.terms.pageNotFound | default "404 page not found" }}</h1>
+</div>
+{{ end }}
