@@ -1,0 +1,35 @@
+# 友情链接
+# Friend's links  
+
+- FLinksTitle: 主要贡献者
+  FLinksDesc: 感谢你们做出的贡献。
+  FLinksList:
+    - name: Ntskwk
+      desc: 遥感技术学习中
+      avatar: https://github.com/Ntskwk.png
+      link: 404
+
+
+- FLinksTitle: 友情链接
+  FLinksDesc: 走过路过不要错过。
+  FLinksList:
+    - name: 简律纯
+      desc: The owner of HydroRoll
+      avatar: https://github.com/HsiangNianian.png
+      link: https://jyunko.cn/
+    - name: AICMUniversity
+      desc: A virtual university. 
+      avatar: aicmu.svg
+      link: https://github.com/AICMUniversity
+
+- FLinksTitle: 致谢清单
+  FLinksDesc: 没有他们就没有这个网站。
+  FLinksList:
+    - name: Hugo
+      desc: 世界上最快的网站建设框架！
+      avatar: https://gohugo.io/favicon-32x32.png
+      link: https://gohugo.io
+    - name: Hugo-NexT
+      desc: Hugo NexT 官方预览网站。
+      avatar: https://hugo-next.eu.org/imgs/hugo_next_avatar.png
+      link: https://hugo-next.eu.org
