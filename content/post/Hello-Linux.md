@@ -15,4 +15,10 @@ QQ群： [912784011](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=H5H1dwCzXXS0m0N2_
 
 <!--more-->
 
-## TODO
+# 反馈与建议
+
+**在这里提出的议题会被正式列入社区的讨论列表中**
+
+- 加入 [GitHub Discussions](https://github.com/NtskwK/glut-lug-pages/discussions)讨论社区建设 :beers:
+- 在[GitHub Issues](https://github.com/hugo-next/hugo-theme-next/issues/new?labels=Bug&template=bug-report.md) 提交本站反馈 :bug:
+- 在[GitHub Feature](https://github.com/hugo-next/hugo-theme-next/issues/new?labels=Feature+Request&template=feature-request.md) 发表新的想法 :sparkles:
